@@ -1,10 +1,10 @@
 {
   "id": "brachyuran-crabfolk-ancestry",
   "title": "Graung's Guide to Golarion: Brachyuran Crabfolk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "description": "The Foundry Module for Graung's Guide to Golarion: Brachyuran Crabfolk",
   "authors": [
